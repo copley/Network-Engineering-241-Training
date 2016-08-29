@@ -1,0 +1,15 @@
+2010 Q4
+
+a.
+i. ma is a pointer to char; mb is a char i.e. ''
+ii. mc is a pointer to a constant char; md is a constant char
+iii. ta and tb are both pointer to char
+iv. tc and td are both pointer to constant char
+
+b.
+i. char * p[5]
+ii. char (* p)[10]
+iii. char * p(int)
+iv. int * p(char[])
+v. int *(* p)(void)
+vi. int (*(*p(void))(void))[10];

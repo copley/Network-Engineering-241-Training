@@ -1,0 +1,26 @@
+Quentin Copley
+ID: 300106194
+
+
+C Lab Project Report.
+
+I completed all tasks and have uploaded the files in the .zip.
+
+  reader.c
+  writer.c
+  t3client.c
+  t3server.c
+  tictactoe.c
+  tictactoe.h
+  generic-tictactoe.c
+
+Part 1 : 
+Working implementation of part 1 of the assignment. I modified all methods other than
+tokenstr(int token) to get this working.
+File generic-tictactoe.c. is a working implementation. 
+
+Part 2 :
+Working implementation of part 2 found in files reader.c and writer.c. 
+
+Part 3 :
+Working implementation of part 3 found in files t3client.c and t3server.c. 

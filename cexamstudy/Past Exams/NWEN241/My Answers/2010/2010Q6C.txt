@@ -1,0 +1,6 @@
+Recursion looks more elegant, but needs a lot of function
+calls (adding function calls on stack), which are very
+expensive.
+
+Iteration may require more variables, but only one
+function call

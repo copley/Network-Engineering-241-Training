@@ -1,0 +1,22 @@
+A
+
+1. pre-processing (-E)
+Text substitution - macro substitution, conditional compilation and inclusion of named files
+2. compilation (-S)
+Compile via symbolic representation of the numeric machine code i.e.
+3. assembly (-c)
+Output object code
+4. linking
+Bring together multiple pieces of object code and arrange into one executabl
+
+B
+
+Java uses a syntax similar to C++. C uses for, while and if statements to control the flow of
+the program. Similarities of c to Java is that java also supports object orientated
+programming as does c and c++.
+
+C uses stand alone functions. No stand alone in Java. No globals in Java.
+The main differences from c to java is that Java does not support a pointer. In c you have to
+manually free memory, unlike java where memory is cleared by the garbage collection. Java
+is more portable because it uses byte code and virtual machine. Java also does not support
+operator overloading.

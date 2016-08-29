@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+
+int round_me(float f) {
+
+    return (int)(f+0.5);
+
+}
+
+
+void main(void) {
+
+    printf("%d\n", round_me(1.9));
+
+    printf("%d\n", round_me(2.1));
+
+}
